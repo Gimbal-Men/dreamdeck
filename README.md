@@ -9,8 +9,6 @@ Additional has it 3 state Lights and one Encoder.
 
 <img width="1022" height="693" alt="image" src="https://github.com/user-attachments/assets/d35248cc-6706-4ab4-a64f-3fb81f4606dd" />
 
-<img width="748" height="723" alt="image" src="https://github.com/user-attachments/assets/1065a19b-9d67-487d-96ab-340384aafc69" />
-
 <img width="933" height="877" alt="image" src="https://github.com/user-attachments/assets/4680157f-f329-46d5-9cff-f75b4483413b" />
 
 <img width="784" height="698" alt="image" src="https://github.com/user-attachments/assets/e471546a-8d7a-4588-94c2-58663159f202" />
