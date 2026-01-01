@@ -11,6 +11,8 @@ Additional has it 3 state Lights and one Encoder.
 
 <img width="933" height="877" alt="image" src="https://github.com/user-attachments/assets/4680157f-f329-46d5-9cff-f75b4483413b" />
 
+<img width="808" height="704" alt="image" src="https://github.com/user-attachments/assets/79e6a593-9e7c-497b-a248-bfc1ee854b77" />
+
 <img width="784" height="698" alt="image" src="https://github.com/user-attachments/assets/e471546a-8d7a-4588-94c2-58663159f202" />
 
 
